@@ -1,0 +1,86 @@
+c:\users\psn\documents\visual studio 2015\Projects\StudentSociety\StudentSociety\bin\Debug\StudentSociety.exe.config
+C:\Users\PSN\Documents\Visual Studio 2015\Projects\StudentSociety\StudentSociety\bin\Debug\StudentSociety.exe
+C:\Users\PSN\Documents\Visual Studio 2015\Projects\StudentSociety\StudentSociety\bin\Debug\StudentSociety.pdb
+C:\Users\PSN\Documents\Visual Studio 2015\Projects\StudentSociety\StudentSociety\obj\Debug\StudentSociety.csprojResolveAssemblyReference.cache
+C:\Users\PSN\Documents\Visual Studio 2015\Projects\StudentSociety\StudentSociety\obj\Debug\StudentSociety.login.resources
+C:\Users\PSN\Documents\Visual Studio 2015\Projects\StudentSociety\StudentSociety\obj\Debug\StudentSociety.Properties.Resources.resources
+C:\Users\PSN\Documents\Visual Studio 2015\Projects\StudentSociety\StudentSociety\obj\Debug\StudentSociety.Welcome.resources
+C:\Users\PSN\Documents\Visual Studio 2015\Projects\StudentSociety\StudentSociety\obj\Debug\StudentSociety.csproj.GenerateResource.Cache
+C:\Users\PSN\Documents\Visual Studio 2015\Projects\StudentSociety\StudentSociety\obj\Debug\StudentSociety.exe
+C:\Users\PSN\Documents\Visual Studio 2015\Projects\StudentSociety\StudentSociety\obj\Debug\StudentSociety.pdb
+C:\Users\PSN\Documents\Visual Studio 2015\Projects\StudentSociety\StudentSociety\obj\Debug\StudentSociety.register.resources
+C:\Users\PSN\Documents\Visual Studio 2015\Projects\StudentSociety\StudentSociety\obj\Debug\StudentSociety.Userpage.resources
+C:\Users\PSN\Documents\Visual Studio 2015\Projects\StudentSociety\StudentSociety\obj\Debug\StudentSociety.Info_Revise.resources
+C:\Users\PSN\Documents\Visual Studio 2015\Projects\StudentSociety\StudentSociety\obj\Debug\StudentSociety.Adminpage.resources
+C:\Users\PSN\Desktop\StudentSociety\StudentSociety\bin\Debug\StudentSociety.exe.config
+C:\Users\PSN\Desktop\StudentSociety\StudentSociety\obj\Debug\StudentSociety.exe
+C:\Users\PSN\Desktop\StudentSociety\StudentSociety\obj\Debug\StudentSociety.pdb
+D:\StudentSociety\StudentSociety\bin\Debug\StudentSociety.exe.config
+D:\StudentSociety\StudentSociety\obj\Debug\StudentSociety.exe
+D:\StudentSociety\StudentSociety\obj\Debug\StudentSociety.pdb
+D:\StudentSociety\StudentSociety\obj\Debug\StudentSociety.csprojResolveAssemblyReference.cache
+D:\StudentSociety\StudentSociety\obj\Debug\StudentSociety.Adminpage.resources
+D:\StudentSociety\StudentSociety\obj\Debug\StudentSociety.Info_Revise.resources
+D:\StudentSociety\StudentSociety\obj\Debug\StudentSociety.login.resources
+D:\StudentSociety\StudentSociety\obj\Debug\StudentSociety.Properties.Resources.resources
+D:\StudentSociety\StudentSociety\obj\Debug\StudentSociety.register.resources
+D:\StudentSociety\StudentSociety\obj\Debug\StudentSociety.Userpage.resources
+D:\StudentSociety\StudentSociety\obj\Debug\StudentSociety.Welcome.resources
+D:\StudentSociety\StudentSociety\obj\Debug\StudentSociety.csproj.GenerateResource.Cache
+D:\StudentSociety\StudentSociety\bin\Debug\StudentSociety.exe
+D:\StudentSociety\StudentSociety\bin\Debug\StudentSociety.pdb
+C:\Users\PSN\Documents\Visual Studio 2015\Projects\StudentSociety\StudentSociety\obj\Debug\StudentSociety.ActivityCheck.resources
+C:\Users\PSN\Documents\Visual Studio 2015\Projects\StudentSociety\StudentSociety\obj\Debug\StudentSociety.MoneyCheck.resources
+C:\Users\PSN\Documents\Visual Studio 2015\Projects\StudentSociety\StudentSociety\obj\Debug\StudentSociety.shenqing.resources
+C:\Users\PSN\Documents\Visual Studio 2015\Projects\StudentSociety\StudentSociety\obj\Debug\StudentSociety.SthCheck.resources
+C:\Users\DELL\Desktop\StudentSociety2\StudentSociety\StudentSociety\bin\Debug\StudentSociety.exe.config
+C:\Users\DELL\Desktop\StudentSociety2\StudentSociety\StudentSociety\obj\Debug\StudentSociety.exe
+C:\Users\DELL\Desktop\StudentSociety2\StudentSociety\StudentSociety\obj\Debug\StudentSociety.pdb
+C:\Users\DELL\Desktop\StudentSociety2\StudentSociety\StudentSociety\bin\Debug\StudentSociety.exe
+C:\Users\DELL\Desktop\StudentSociety2\StudentSociety\StudentSociety\bin\Debug\StudentSociety.pdb
+C:\Users\DELL\Desktop\StudentSociety2\StudentSociety\StudentSociety\obj\Debug\StudentSociety.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\StudentSociety2\StudentSociety\StudentSociety\obj\Debug\StudentSociety.ActivityCheck.resources
+C:\Users\DELL\Desktop\StudentSociety2\StudentSociety\StudentSociety\obj\Debug\StudentSociety.Adminpage.resources
+C:\Users\DELL\Desktop\StudentSociety2\StudentSociety\StudentSociety\obj\Debug\StudentSociety.Info_Revise.resources
+C:\Users\DELL\Desktop\StudentSociety2\StudentSociety\StudentSociety\obj\Debug\StudentSociety.login.resources
+C:\Users\DELL\Desktop\StudentSociety2\StudentSociety\StudentSociety\obj\Debug\StudentSociety.MoneyCheck.resources
+C:\Users\DELL\Desktop\StudentSociety2\StudentSociety\StudentSociety\obj\Debug\StudentSociety.Properties.Resources.resources
+C:\Users\DELL\Desktop\StudentSociety2\StudentSociety\StudentSociety\obj\Debug\StudentSociety.register.resources
+C:\Users\DELL\Desktop\StudentSociety2\StudentSociety\StudentSociety\obj\Debug\StudentSociety.shenqing.resources
+C:\Users\DELL\Desktop\StudentSociety2\StudentSociety\StudentSociety\obj\Debug\StudentSociety.SthCheck.resources
+C:\Users\DELL\Desktop\StudentSociety2\StudentSociety\StudentSociety\obj\Debug\StudentSociety.Userpage.resources
+C:\Users\DELL\Desktop\StudentSociety2\StudentSociety\StudentSociety\obj\Debug\StudentSociety.Welcome.resources
+C:\Users\DELL\Desktop\StudentSociety2\StudentSociety\StudentSociety\obj\Debug\StudentSociety.csproj.GenerateResource.Cache
+C:\Users\PSN\Desktop\StudentSociety\StudentSociety\bin\Debug\StudentSociety.exe
+C:\Users\PSN\Desktop\StudentSociety\StudentSociety\bin\Debug\StudentSociety.pdb
+C:\Users\PSN\Desktop\StudentSociety\StudentSociety\obj\Debug\StudentSociety.csprojResolveAssemblyReference.cache
+C:\Users\PSN\Desktop\StudentSociety\StudentSociety\obj\Debug\StudentSociety.ActivityCheck.resources
+C:\Users\PSN\Desktop\StudentSociety\StudentSociety\obj\Debug\StudentSociety.Adminpage.resources
+C:\Users\PSN\Desktop\StudentSociety\StudentSociety\obj\Debug\StudentSociety.Info_Revise.resources
+C:\Users\PSN\Desktop\StudentSociety\StudentSociety\obj\Debug\StudentSociety.login.resources
+C:\Users\PSN\Desktop\StudentSociety\StudentSociety\obj\Debug\StudentSociety.MoneyCheck.resources
+C:\Users\PSN\Desktop\StudentSociety\StudentSociety\obj\Debug\StudentSociety.Properties.Resources.resources
+C:\Users\PSN\Desktop\StudentSociety\StudentSociety\obj\Debug\StudentSociety.register.resources
+C:\Users\PSN\Desktop\StudentSociety\StudentSociety\obj\Debug\StudentSociety.shenqing.resources
+C:\Users\PSN\Desktop\StudentSociety\StudentSociety\obj\Debug\StudentSociety.SthCheck.resources
+C:\Users\PSN\Desktop\StudentSociety\StudentSociety\obj\Debug\StudentSociety.Userpage.resources
+C:\Users\PSN\Desktop\StudentSociety\StudentSociety\obj\Debug\StudentSociety.Welcome.resources
+C:\Users\PSN\Desktop\StudentSociety\StudentSociety\obj\Debug\StudentSociety.csproj.GenerateResource.Cache
+D:\高校社团内部管理系统\Team4Proj.git\trunk\StudentSociety\StudentSociety\bin\Debug\StudentSociety.exe.config
+D:\高校社团内部管理系统\Team4Proj.git\trunk\StudentSociety\StudentSociety\bin\Debug\StudentSociety.exe
+D:\高校社团内部管理系统\Team4Proj.git\trunk\StudentSociety\StudentSociety\bin\Debug\StudentSociety.pdb
+D:\高校社团内部管理系统\Team4Proj.git\trunk\StudentSociety\StudentSociety\obj\Debug\StudentSociety.csprojResolveAssemblyReference.cache
+D:\高校社团内部管理系统\Team4Proj.git\trunk\StudentSociety\StudentSociety\obj\Debug\StudentSociety.ActivityCheck.resources
+D:\高校社团内部管理系统\Team4Proj.git\trunk\StudentSociety\StudentSociety\obj\Debug\StudentSociety.Adminpage.resources
+D:\高校社团内部管理系统\Team4Proj.git\trunk\StudentSociety\StudentSociety\obj\Debug\StudentSociety.Info_Revise.resources
+D:\高校社团内部管理系统\Team4Proj.git\trunk\StudentSociety\StudentSociety\obj\Debug\StudentSociety.login.resources
+D:\高校社团内部管理系统\Team4Proj.git\trunk\StudentSociety\StudentSociety\obj\Debug\StudentSociety.MoneyCheck.resources
+D:\高校社团内部管理系统\Team4Proj.git\trunk\StudentSociety\StudentSociety\obj\Debug\StudentSociety.Properties.Resources.resources
+D:\高校社团内部管理系统\Team4Proj.git\trunk\StudentSociety\StudentSociety\obj\Debug\StudentSociety.register.resources
+D:\高校社团内部管理系统\Team4Proj.git\trunk\StudentSociety\StudentSociety\obj\Debug\StudentSociety.shenqing.resources
+D:\高校社团内部管理系统\Team4Proj.git\trunk\StudentSociety\StudentSociety\obj\Debug\StudentSociety.SthCheck.resources
+D:\高校社团内部管理系统\Team4Proj.git\trunk\StudentSociety\StudentSociety\obj\Debug\StudentSociety.Userpage.resources
+D:\高校社团内部管理系统\Team4Proj.git\trunk\StudentSociety\StudentSociety\obj\Debug\StudentSociety.Welcome.resources
+D:\高校社团内部管理系统\Team4Proj.git\trunk\StudentSociety\StudentSociety\obj\Debug\StudentSociety.csproj.GenerateResource.Cache
+D:\高校社团内部管理系统\Team4Proj.git\trunk\StudentSociety\StudentSociety\obj\Debug\StudentSociety.exe
+D:\高校社团内部管理系统\Team4Proj.git\trunk\StudentSociety\StudentSociety\obj\Debug\StudentSociety.pdb
